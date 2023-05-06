@@ -1,5 +1,5 @@
 
-# <p align="center">My Go Lib</p>
+# <p align="center">My Go Lib 2</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&color=00ADD8" alt="Go" />
@@ -7,7 +7,7 @@
 
 ## 💬 About
 
-My Go Lib is a simple library to learn Go.
+My Go Lib 2 is a simple second library to learn Go.
 
 ## :computer: Technologies
 
@@ -20,11 +20,11 @@ My Go Lib is a simple library to learn Go.
 ## :cd: Installation
 
 ```sh
-git clone git@github.com:filipe1309/my-go-library.git
+git clone git@github.com:filipe1309/my-go-library-2.git
 ```
 
 ```sh
-cd my-go-library
+cd my-go-library-2
 ```
 
 
